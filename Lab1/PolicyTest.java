@@ -1,7 +1,5 @@
 public class PolicyTest {
 
- 
-
        public static void main(String[] args)
 
        {
@@ -23,7 +21,7 @@ public class PolicyTest {
              System.out.println(a);
 
             
-
+            
              // Create and set a Home policy object setting data using setters
 
              Home h = new Home();
@@ -53,7 +51,6 @@ public class PolicyTest {
              System.out.println(h);
 
             
-
              // Create and set an Life policy object setting data using constructor
 
              Life l = new Life("Cosmo", "Kramer", 35, 50000);
